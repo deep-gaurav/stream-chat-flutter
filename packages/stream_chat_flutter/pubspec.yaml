@@ -48,8 +48,8 @@ dependencies:
 flutter:
   plugin:
     platforms:
-      android:
-        default_package: stream_chat_flutter
+      # android:
+      #   default_package: stream_chat_flutter
       ios:
         default_package: stream_chat_flutter
       windows:
